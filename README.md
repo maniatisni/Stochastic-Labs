@@ -15,4 +15,4 @@ The following exercises are provided:
 9) Radial Basis Function (RBF) and Support Vector Machine (SVM)  
 10) Decision Trees and Random Forests  
   
-Note: Some exercises are taken from online sources.
+Note: Some notebooks were corrupt and I dind't bother to fix them, but I included .html files you can download and open on a browser.
